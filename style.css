@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(31, 239, 20);
+}
+.btn
+{
+    width: 5%;
+    background: aqua;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+    height: 100px;
+}
+#textbox
+{
+    width: 300px;
+    background-color: rgb(240, 202, 10);
+}
